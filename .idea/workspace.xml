@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3d8716e-6f54-4055-8a43-ffa9eef0667e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/browse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/js/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/res/css/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jGsVOhcg4LdG5MRKtlmPV7jUrj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mangel\Desktop\Web Development\wad20-homework2\res\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3d8716e-6f54-4055-8a43-ffa9eef0667e" name="Default Changelist" comment="" />
+      <created>1603441785831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603441785831</updated>
+      <workItem from="1603441786919" duration="3273000" />
+      <workItem from="1603454630626" duration="788000" />
+      <workItem from="1603455563696" duration="3137000" />
+      <workItem from="1603459643871" duration="9372000" />
+      <workItem from="1603481941269" duration="4536000" />
+      <workItem from="1603486742563" duration="4008000" />
+      <workItem from="1603529366853" duration="5240000" />
+      <workItem from="1603541142086" duration="5950000" />
+      <workItem from="1603614416520" duration="34000" />
+      <workItem from="1603640111146" duration="765000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="833" y="217" key="FileChooserDialogImpl" timestamp="1603614447804">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="833" y="217" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1603614447804" />
+  </component>
+</project>
